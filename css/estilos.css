@@ -8,11 +8,11 @@ body {
 }
 
 #container {
+    margin: 0 auto;
     width: 70%;
     padding: lem;
     text-align: left;
     border: lpx solid;
-    margin: 0 auto;
 }
 
 #container h1 {
